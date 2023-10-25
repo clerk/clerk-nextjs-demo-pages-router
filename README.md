@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://clerk.com?utm_source=github&utm_medium=clerk_docs" target="_blank" rel="noopener noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://images.clerk.com/static/logo-dark-mode-400x400.png">
-      <img src="https://images.clerk.com/static/logo-light-mode-400x400.png" height="64">
+      <source media="(prefers-color-scheme: dark)" srcset="./public/light-logo.png">
+      <img src="./public/dark-logo.png" height="64">
     </picture>
   </a>
   <br />
@@ -54,7 +54,6 @@ git clone https://github.com/clerkinc/clerk-nextjs-demo-pages-router
 
 To run the example locally, you need to:
 
-
 1. Sign up for a Clerk account at [https://clerk.com](https://dashboard.clerk.com/sign-up?utm_source=DevRel&utm_medium=docs&utm_campaign=templates&utm_content=10-24-2023&utm_term=clerk-nextjs-demo-pages-router).
 2. Go to the [Clerk dashboard](https://dashboard.clerk.com?utm_source=DevRel&utm_medium=docs&utm_campaign=templates&utm_content=10-24-2023&utm_term=clerk-nextjs-demo-pages-router) and create an application.
 3. Set the required Clerk environment variables as shown in [the example `env` file](./.env.template).
@@ -82,6 +81,6 @@ Feel free to create an [issue](https://github.com/clerkinc/clerk-nextjs-demo-pag
 
 ## Connect with us
 
-You can discuss ideas, ask questions, and meet others from the community in our [Discord](https://discord.com/invite/b5rXHjAg7A). 
+You can discuss ideas, ask questions, and meet others from the community in our [Discord](https://discord.com/invite/b5rXHjAg7A).
 
 If you prefer, you can also find support through our [Twitter](https://twitter.com/ClerkDev), or you can [email](mailto:support@clerk.dev) us!

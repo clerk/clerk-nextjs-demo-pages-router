@@ -10,8 +10,7 @@
 <div align="center">
   <h1>
     Clerk and Next.js Pages Router template
-  </h1>
-  <h3>More than authentication.<br />Complete user management.</h3>
+  </h1>  
   <a href="https://www.npmjs.com/package/@clerk/clerk-js">
     <img alt="" src="https://img.shields.io/npm/dm/@clerk/clerk-js" />
   </a>
@@ -39,14 +38,12 @@ This template allows you to get started with Clerk and Next.js (Pages Router) in
 
 ## Demo
 
-<!-- TODO: INSERT VERCEL PREVIEW OF THIS APP -->
 A hosted demo of this example is available at https://clerk-nextjs-demo-pages-router.clerkpreview.com/
 
 ## Deploy
 
 Easily deploy the template to Vercel with the button below. You will need to set the required environment variables in the Vercel dashboard.
 
-<!-- TODO: UPDATE THIS LINK -->
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fclerkinc%2Fclerk-nextjs-demo-pages-router&env=NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY,CLERK_SECRET_KEY&envDescription=Clerk%20API%20keys&envLink=https%3A%2F%2Fclerk.com%2Fdocs%2Fquickstarts%2Fnextjs&redirect-url=https%3A%2F%2Fclerk.com%2Fdocs%2Fquickstarts%2Fnextjs)
 
 ## Running the template
@@ -57,10 +54,9 @@ git clone https://github.com/clerkinc/clerk-nextjs-demo-pages-router
 
 To run the example locally, you need to:
 
-<!-- TODO: UPDATE THIS UTM -->
-1. Sign up for a Clerk account at [https://clerk.com](https://dashboard.clerk.com/sign-up?utm_source=github&utm_medium=template_repos&utm_campaign=nextjs_template).
-<!-- TODO: UPDATE THIS UTM -->
-2. Go to the [Clerk dashboard](https://dashboard.clerk.com?utm_source=github&utm_medium=template_repos&utm_campaign=nextjs_template) and create an application.
+
+1. Sign up for a Clerk account at [https://clerk.com](https://dashboard.clerk.com/sign-up?utm_source=DevRel&utm_medium=docs&utm_campaign=templates&utm_content=10-24-2023&utm_term=clerk-nextjs-demo-pages-router).
+2. Go to the [Clerk dashboard](https://dashboard.clerk.com?utm_source=DevRel&utm_medium=docs&utm_campaign=templates&utm_content=10-24-2023&utm_term=clerk-nextjs-demo-pages-router) and create an application.
 3. Set the required Clerk environment variables as shown in [the example `env` file](./.env.template).
 4. `npm install` the required dependencies.
 5. `npm run dev` to launch the development server.
@@ -69,10 +65,8 @@ To run the example locally, you need to:
 
 To learn more about Clerk and Next.js, check out the following resources:
 
-<!-- TODO: UPDATE THIS UTM -->
-- [Quickstart: Get started with Next.js and Clerk](https://clerk.com/docs/quickstarts/nextjs?utm_source=github&utm_medium=template_repos&utm_campaign=nextjs_template)
-<!-- TODO: UPDATE THIS UTM -->
-- [Clerk Documentation](https://clerk.com/docs?utm_source=github&utm_medium=template_repos&utm_campaign=nextjs_template)
+- [Quickstart: Get started with Next.js and Clerk](https://clerk.com/docs/quickstarts/nextjs?utm_source=DevRel&utm_medium=docs&utm_campaign=templates&utm_content=10-24-2023&utm_term=clerk-nextjs-demo-pages-router)
+- [Clerk Documentation](https://clerk.com/docs?utm_source=DevRel&utm_medium=docs&utm_campaign=templates&utm_content=10-24-2023&utm_term=clerk-nextjs-demo-pages-router)
 - [Next.js Documentation](https://nextjs.org/docs)
 
 ## Found an issue?

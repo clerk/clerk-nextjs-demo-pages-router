@@ -36,10 +36,6 @@ This template allows you to get started with Clerk and Next.js (Pages Router) in
 - Hooks for accessing user data and authentication state
 - Organizations for multi-tenant applications
 
-## Demo
-
-A hosted demo of this example is available at https://clerk-nextjs-demo-pages-router.clerkpreview.com/
-
 ## Deploy
 
 Easily deploy the template to Vercel with the button below. You will need to set the required environment variables in the Vercel dashboard.
